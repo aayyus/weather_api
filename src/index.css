@@ -20,6 +20,9 @@ h1{
   color: aliceblue;
 
 }
+.error{
+  text-align: center;
+}
 
 .app:before{
   content: '';
